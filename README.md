@@ -18,7 +18,8 @@ Este repositório contém o meu estudo completo do curso de **Lógica de Program
 | Dia | Conteúdo Estudado                                           | Link |
 |-----|-------------------------------------------------------------|------|
 | 01  | Arquitetura básica, hardware, software, lógica e algoritmos | [logica-dia01.md](./dia01/logica-dia01.md) |
-| 02  | *(a preencher)*                                             | -    |
+| 02  | Representação de algoritmos, tipos de dados, declaração e atribuição de variáveis, padrões de nomeclatura de objetos e escopo de variáveis | [logica-dia-02.md](./dia02/logica-dia02.md) |
+| 03  | *(a preencher)*                                             | -    |
 | ... | ...                                                         | ...  |
 
 ---
