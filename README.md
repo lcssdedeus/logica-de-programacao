@@ -42,3 +42,5 @@ Todo o conteúdo foi assistido, resumido, interpretado e reescrito com base em a
     Assim como o livro anterior, esta obra aborda princípios avançados de design e arquitetura de software, sendo mais útil para quem já passou da fase de aprendizado básico da programação. **Não é a leitura mais apropriada para iniciantes absolutos**, pois seu conteúdo exige certo domínio de lógica e prática com estruturas de código mais robustas.)
 
 > Feito com 💻 e ☕ por Lucas S. de Deus - vulgo Draco
+
+teste de compatibilidade
