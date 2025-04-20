@@ -226,8 +226,7 @@ Esses operadores **comparam valores do mesmo tipo**, ou seja, não é possível 
 
 ### 💻 Exemplos de Expressões Relacionais
 
-```portugol
-programa
+```programa
 {
     funcao inicio()
     {
