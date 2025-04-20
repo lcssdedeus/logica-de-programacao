@@ -261,14 +261,12 @@ Os mais usados são:
 - `VERDADEIRO` (também representado por `true`)
 - `FALSO` (também representado por `false`)
 
----
-
 ### 📊 Tabela Verdade – OPERADOR LÓGICO **E**
 
 O operador **E** (representado por `&&` ou `e` no Portugol Studio) **retorna VERDADEIRO somente se ambas as condições forem verdadeiras**.
 
-| Expressão A | Expressão B | A E B |
-|-------------|-------------|--------|
+| Expressão A | Expressão B | A E B      |
+|-------------|-------------|------------|
 | VERDADEIRO  | VERDADEIRO  | VERDADEIRO |
 | VERDADEIRO  | FALSO       | FALSO      |
 | FALSO       | VERDADEIRO  | FALSO      |
@@ -280,8 +278,8 @@ O operador **E** (representado por `&&` ou `e` no Portugol Studio) **retorna VER
 
 O operador **OU** (representado por `||` ou `ou` no Portugol Studio) **retorna VERDADEIRO se pelo menos uma das condições for verdadeira**.
 
-| Expressão A | Expressão B | A OU B |
-|-------------|-------------|--------|
+| Expressão A | Expressão B | A OU B     |
+|-------------|-------------|------------|
 | VERDADEIRO  | VERDADEIRO  | VERDADEIRO |
 | VERDADEIRO  | FALSO       | VERDADEIRO |
 | FALSO       | VERDADEIRO  | VERDADEIRO |
@@ -293,10 +291,10 @@ O operador **OU** (representado por `||` ou `ou` no Portugol Studio) **retorna V
 
 O operador **NÃO** (representado por `!` ou `nao` no Portugol Studio) **inverte o valor lógico**.
 
-| Expressão | NÃO Expressão |
-|-----------|----------------|
-| VERDADEIRO | FALSO         |
-| FALSO      | VERDADEIRO    |
+| Expressão   | NÃO Expressão |
+|-------------|---------------|
+| VERDADEIRO  | FALSO         |
+| FALSO       | VERDADEIRO    |
 
 ---
 
