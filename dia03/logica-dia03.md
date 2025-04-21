@@ -226,7 +226,8 @@ Esses operadores **comparam valores do mesmo tipo**, ou seja, não é possível 
 
 ### 💻 Exemplos de Expressões Relacionais
 
-```programa
+```portugol
+programa
 {
     funcao inicio()
     {
@@ -242,6 +243,7 @@ Esses operadores **comparam valores do mesmo tipo**, ou seja, não é possível 
         escreva("x >= y: ", x >= y, "\n") // FALSO
     }
 }
+```
 
 ## 🔐 OPERADORES LÓGICOS (E, OU, NÃO)
 
@@ -334,6 +336,7 @@ programa
         escreva("Negação do uniforme: ", nao temUniforme, "\n")             // VERDADEIRO
     }
 }
+```
 
 💡 **Nota Importante:** Os exemplos apresentados aqui não são, necessariamente, os mesmos utilizados pelo professor Fábio durante a aula em vídeo. Em alguns momentos, optei por utilizar variações ou novos exemplos com o objetivo de evitar repetições e incentivar a prática ativa. A ideia é reforçar o conteúdo e estimular a autonomia na resolução de problemas, o mesmo pode se seguir em outros exemplos a seguir.
 
@@ -429,6 +432,7 @@ programa
     escreva("Uso da raiz quadrada será estudado com a biblioteca matemática futuramente.\n")
   }
 }
+```
 
 ### Nota Pessoal:
 
