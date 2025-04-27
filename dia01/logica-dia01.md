@@ -1,4 +1,3 @@
-
 # Dia 01 – Introdução à Lógica de Programação
 
 Estudo baseado no curso de Lógica de Programação da Bóson Treinamentos, ministrado pelo profº Fábio dos Reis. Este registro serve como material de apoio pessoal e compartilhamento com a comunidade.

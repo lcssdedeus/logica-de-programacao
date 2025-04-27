@@ -1,5 +1,9 @@
 # Dia 3 — Curso Completo de Lógica de Programação com Português Estruturado
 
+No terceiro dia do curso de Lógica de Programação com Português Estruturado, estudamos os mecanismos de **entrada e saída de dados**, utilizando os comandos **ESCREVA** e **LEIA** para permitir a comunicação entre o algoritmo e o usuário. Aprofundamos o entendimento dos **operadores e expressões aritméticas**, responsáveis por realizar operações de **soma**, **subtração**, **multiplicação**, **divisão** e **módulo**, fundamentais para o processamento de cálculos no desenvolvimento lógico. Também exploramos os **operadores relacionais**, como **igual a**, **diferente de**, **maior que**, **menor que**, **maior ou igual a** e **menor ou igual a**, destacando a diferença entre o símbolo de **atribuição** (`=`) e o símbolo de **comparação** (`==`), uma distinção crucial para a escrita correta dos algoritmos.
+
+Além disso, estudamos os **operadores lógicos** — **E**, **OU** e **NÃO** —, essenciais para construir condições compostas e tornar os algoritmos mais inteligentes e flexíveis. Encerramos o bloco de estudos entendendo os conceitos de **associatividade** e **precedência de operadores**, aprendendo a determinar a ordem de avaliação das expressões, garantindo a construção de instruções mais claras e corretas. Esses novos conhecimentos reforçaram a base lógica necessária para desenvolver algoritmos mais estruturados e eficazes.
+
 ## Entrada e Saída de Dados: `ESCREVA` e `LEIA`
 
 No Portugol Studio, a entrada e saída de dados é feita através das funções `escreva` e `leia`. Essas funções são fundamentais para a comunicação com o usuário: uma exibe mensagens no terminal e a outra recebe valores digitados pelo usuário.
@@ -382,7 +386,7 @@ Na programação, a ordem em que os operadores são avaliados dentro de uma expr
 
 ---
 
-### 💡 Exemplo de Código – Portugal Studio
+### 💡 Exemplo de Código – Portugol Studio
 
 ```portugol
 programa
@@ -448,3 +452,8 @@ Esse conhecimento é um passo importante para a construção de programas robust
 No começo, pode parecer confuso, mas com prática e revisão constante, esses conceitos se tornarão naturais no seu dia a dia de programador. E lembre-se: parênteses são seus aliados! Não hesite em usá-los sempre que houver alguma dúvida sobre a ordem de execução. Isso tornará seu código mais seguro e fácil de entender para qualquer pessoa que o leia.
 
 Cada novo conceito que você aprender agora será a base para entender aspectos mais avançados de programação no futuro, então aproveite esse momento de aprofundamento para solidificar essas ideias.
+
+## Referência principal:
+
+REIS, Fábio dos. Curso de Lógica de Programação – Bóson Treinamentos. YouTube: [https://www.youtube.com/@bosontreinamentos](https://www.youtube.com/@bosontreinamentos)
+

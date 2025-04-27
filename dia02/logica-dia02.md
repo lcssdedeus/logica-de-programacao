@@ -1,6 +1,12 @@
 
 # Dia 2 — Curso Completo de Lógica de Programação com Português Estruturado
 
+No segundo dia de estudos do curso de Lógica de Programação com Português Estruturado, avançamos em temas fundamentais para a construção do raciocínio lógico aplicado à programação. Iniciamos compreendendo o conceito de **algoritmo**, reconhecendo-o como uma sequência finita de passos organizados que visam resolver um problema específico. A seguir, estudamos o **fluxograma**, ferramenta gráfica que permite representar de forma visual o fluxo de um algoritmo, facilitando a interpretação e análise lógica dos processos. Também fomos apresentados ao **diagrama de Chapin**, técnica que consiste na estruturação hierárquica dos passos de um algoritmo, organizando as etapas de maneira sequencial e clara. Essa abordagem reforça a importância de manter a lógica sempre bem planejada e compreensível. Em sequência, exploramos o universo dos **tipos de dados**, entendendo suas divisões e classificações, como inteiros, reais, caracteres, lógicos, entre outros. Saber distinguir esses tipos é essencial para garantir que as operações realizadas em um algoritmo sejam corretas e eficientes.
+
+O estudo prosseguiu com a **declaração e atribuição de variáveis**, práticas fundamentais para armazenar e manipular informações durante a execução dos algoritmos. Entender a diferença entre declarar uma variável e atribuir-lhe um valor foi crucial para consolidar o raciocínio lógico. Aprofundamos ainda a importância de adotar **padrões de nomenclatura de objetos**, considerando boas práticas que tornam o código mais legível e sustentável. Analisamos as **convenções de nomeação** mais utilizadas, como camelCase e snake_case, refletindo sobre a escolha consciente de nomes claros e intuitivos para variáveis, funções e demais objetos. Por fim, estudamos o conceito de **escopo de variáveis**, entendendo como o contexto em que uma variável é declarada determina sua existência e seu tempo de vida dentro do programa. Essa compreensão é fundamental para a criação de algoritmos mais seguros, otimizados e livres de erros de acesso a dados.
+
+Este bloco de estudos consolidou pilares essenciais para a formação de uma base sólida na lógica de programação, preparando o terreno para práticas mais avançadas que virão nas próximas etapas do curso.
+
 ## Algoritmos, Fluxograma e Diagrama de Chapin
 
 ### O que são algoritmos?

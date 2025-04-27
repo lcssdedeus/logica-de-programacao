@@ -17,9 +17,11 @@ Este repositório contém o meu estudo completo do curso de **Lógica de Program
 
 | Dia | Conteúdo Estudado                                           | Link |
 |-----|-------------------------------------------------------------|------|
-| 01  | Arquitetura básica, hardware, software, lógica e algoritmos | [logica-dia01.md](./dia01/logica-dia01.md) |
-| 02  | Representação de algoritmos, tipos de dados, declaração e atribuição de variáveis, padrões de nomeclatura de objetos e escopo de variáveis | [logica-dia-02.md](./dia02/logica-dia02.md) |
-| 03  | *(a preencher)*                                             | -    |
+| 01  | Arquitetura Básica, Hardware, Software, Lógica e Algoritmos | [logica-dia01.md](./dia01/logica-dia01.md) |
+| 02  | Representação de Algoritmos, Tipos de Dados, Declaração e Atribuição de Variáveis, Padrões de Nomeclatura de Objetos e Escopo de Variáveis | [logica-dia-02.md](./dia02/logica-dia02.md) |
+| 03  | Entrada e Saída de Dados, Operadores e Expressões Aritméticas, Operadores Relacionais, Operadores Lógicos, Associatividade e Precedência de Operadores | [logica-dis03.md](./dia03/logica-dia03.md) |
+| 04  | Decisão Condicional Simples, Decisão Condicional Composto, Desvio Condicional Encadeado (Aninhado), Desvio Condicional: Comando `ESCOLHA...CASO`, Como Usar Bibliotecas e suas Funções, Como Gerar Números Aleatórios, Laço de Repetição `ENQUANTO`, Laço de Repetição `PARA` e Encadeamento de Laços de Repetição | [logica-dis04.md](./dia04/logica-dia04.md) |
+| 05  | *(a preencher)*                                             | -    |
 | ... | ...                                                         | ...  |
 
 ---
