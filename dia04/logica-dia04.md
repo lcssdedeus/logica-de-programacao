@@ -862,7 +862,10 @@ O uso de laços aninhados é essencial para trabalhar com estruturas bidimension
 
 Cuidado com a quantidade de repetições: laços muito profundos ou mal controlados podem tornar o programa lento.
 
-**Nota Pessoal:** Hoje, tivemos um bom mergulho nos conceitos que realmente fazem a programação acontecer de forma eficiente. Começamos entendendo as estruturas condicionais, que são fundamentais para qualquer programa, pois é nelas que o código decide para onde ir dependendo de algumas condições. O conceito de desvio condicional encadeado e o uso do comando "escolha caso" abriram a porta para criar decisões mais complexas dentro dos programas, algo que se torna cada vez mais necessário à medida que o código cresce.
+---
+
+## Nota pessoal:
+Hoje, tivemos um bom mergulho nos conceitos que realmente fazem a programação acontecer de forma eficiente. Começamos entendendo as estruturas condicionais, que são fundamentais para qualquer programa, pois é nelas que o código decide para onde ir dependendo de algumas condições. O conceito de desvio condicional encadeado e o uso do comando "escolha caso" abriram a porta para criar decisões mais complexas dentro dos programas, algo que se torna cada vez mais necessário à medida que o código cresce.
 
 Além disso, foi interessante ver como as bibliotecas, como a `Util`, facilitam a vida com funções prontas para uso, como a geração de números aleatórios. Esses pequenos detalhes são o que tornam o trabalho de programar mais eficiente. E os laços de repetição, como `enquanto` e `para`, trouxeram a dinâmica que todo programa precisa ter, repetindo tarefas sem precisar escrever tudo de novo. 
 
