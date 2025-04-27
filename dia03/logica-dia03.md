@@ -438,8 +438,9 @@ programa
 }
 ```
 
-### Nota Pessoal:
+---
 
+## Nota pessoal:
 A compreensão da precedência e associatividade dos operadores é essencial para desenvolver programas corretos e evitar ambiguidades lógicas. Quando uma expressão é mal interpretada, ela pode gerar falhas sutis e difíceis de detectar, prejudicando o funcionamento do código. Por isso, usar parênteses sempre que for necessário é uma boa prática. Isso garante clareza e segurança na avaliação das expressões.
 
 Esse conhecimento é um passo importante para a construção de programas robustos, onde o comportamento do código seja previsível e confiável. Além disso, ele serve de base para o próximo nível de compreensão em programação, onde podemos aplicar conceitos mais avançados e otimizar nosso raciocínio lógico.
